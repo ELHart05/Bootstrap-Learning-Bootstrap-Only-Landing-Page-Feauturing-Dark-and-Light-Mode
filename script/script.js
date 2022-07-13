@@ -27,5 +27,5 @@ btn.addEventListener("click", function () {
         btn.textContent = "Light";
     }
     btn.classList = "btn dark-mode btn-primary nav-link btn-md py-0 px-2 ms-md-2 mt-2 mt-md-0";
-    footer_links.forEach(footer_link => footer_link.classList = "nav-link text-primary");
+    footer_links.forEach(footer_link => footer_link.classList = "nav-link footer-link text-primary px-2");
 })
