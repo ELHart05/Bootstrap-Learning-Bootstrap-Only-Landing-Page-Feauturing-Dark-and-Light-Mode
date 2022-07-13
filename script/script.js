@@ -11,7 +11,7 @@ const btn = document.querySelector(".dark-mode"),
 btn.addEventListener("click", function () {
     if (body.classList.contains("bg-dark")) {
         body.classList = "bg-white text-dark";
-        navbar.classList = "navbar navbar-dark bg-white navbar-expand-md position-sticky top-0";
+        navbar.classList = "navbar navbar-dark bg-white navbar-expand-md";
         hr.forEach(elem => elem.classList = "bg-dark");
         cards.forEach(card => card.classList = "col card bg-dark text-white p-2 m-md-3 my-2 col-md-5");
         nav_link.forEach(link => link.classList = "nav-link text-dark");
@@ -19,7 +19,7 @@ btn.addEventListener("click", function () {
         btn.textContent = "Dark";
     } else {
         body.classList = "bg-dark text-white";
-        navbar.classList = "navbar navbar-dark bg-dark navbar-expand-md position-sticky top-0";
+        navbar.classList = "navbar navbar-dark bg-dark navbar-expand-md";
         hr.forEach(elem => elem.classList = "bg-white");
         cards.forEach(card => card.classList = "col card bg-white text-dark p-2 m-md-3 my-2 col-md-5");
         nav_link.forEach(link => link.classList = "nav-link text-white");
