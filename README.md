@@ -14,3 +14,5 @@
 NOTE : THE WEBSITE IS HOSTED ON NETLIFY YOU CAN CHECK IT OUT : https://bootstraplearn.netlify.app/
 
 NOTE : The repository privacy, content can be changed any time.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9801872d-b048-409e-88fb-c22a799e7822/deploy-status)](https://app.netlify.com/sites/bootstraplearn/deploys)
