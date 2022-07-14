@@ -2,12 +2,13 @@
 
 
 # Dark Mode:
-![screenshot-dark](https://user-images.githubusercontent.com/96151694/178842248-1a29f1fa-4c63-4f1b-be64-745d79bd61db.png)
+![screenshot-dark](https://user-images.githubusercontent.com/96151694/179017155-8236a5dd-80f0-4071-a1f2-34afc1dbe969.png)
 
 <hr />
 
 # Light Mode:
-![screenshot-white](https://user-images.githubusercontent.com/96151694/178842396-5f9af47c-722f-462b-88a7-4333c14b93ba.png)
+![screenshot-light](https://user-images.githubusercontent.com/96151694/179017556-df20a60e-09d8-415b-8b53-8f4f02a48e53.png)
+
 
 "Learn Bootstrap" Landing Page Using CSS Bootstrap JS And HTML and it's feauturing dark and light mode.
 
